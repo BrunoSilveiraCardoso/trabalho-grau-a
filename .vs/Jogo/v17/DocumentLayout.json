@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruno\\source\\repos\\Jogo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\ShaderProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\ShaderProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\Platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Ground.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\Ground.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\Text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\ShaderProgram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\ShaderProgram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Platform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\Platform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Ground.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\Ground.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\ft2build.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\ft2build.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\glad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\glad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E16B887-43E8-4507-BE20-97307F774F69}|Jogo\\Jogo.vcxproj|solutionrelative:Jogo\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jogo\\shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Text.cpp",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Text.cpp",
+              "RelativeDocumentMoniker": "Jogo\\Text.cpp",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Text.cpp",
+              "RelativeToolTip": "Jogo\\Text.cpp",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAIEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-08T19:32:49.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Platform.cpp",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Platform.cpp",
+              "RelativeDocumentMoniker": "Jogo\\Platform.cpp",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Platform.cpp",
+              "RelativeToolTip": "Jogo\\Platform.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-08T19:31:52.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ground.cpp",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Ground.cpp",
+              "RelativeDocumentMoniker": "Jogo\\Ground.cpp",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Ground.cpp",
+              "RelativeToolTip": "Jogo\\Ground.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-08T19:31:36.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Player.h",
+              "RelativeDocumentMoniker": "Jogo\\Player.h",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Player.h",
+              "RelativeToolTip": "Jogo\\Player.h",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwDcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-08T19:29:03.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Main.cpp",
+              "RelativeDocumentMoniker": "Jogo\\Main.cpp",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Main.cpp",
+              "RelativeToolTip": "Jogo\\Main.cpp",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T19:23:41.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Platform.h",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Platform.h",
+              "RelativeDocumentMoniker": "Jogo\\Platform.h",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Platform.h",
+              "RelativeToolTip": "Jogo\\Platform.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-08T19:30:05.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShaderProgram.h",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\ShaderProgram.h",
+              "RelativeDocumentMoniker": "Jogo\\ShaderProgram.h",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\ShaderProgram.h",
+              "RelativeToolTip": "Jogo\\ShaderProgram.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-08T19:23:08.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Text.h",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Text.h",
+              "RelativeDocumentMoniker": "Jogo\\Text.h",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Text.h",
+              "RelativeToolTip": "Jogo\\Text.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-08T19:24:54.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Player.cpp",
+              "RelativeDocumentMoniker": "Jogo\\Player.cpp",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Player.cpp",
+              "RelativeToolTip": "Jogo\\Player.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAE0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-08T19:32:01.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShaderProgram.cpp",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\ShaderProgram.cpp",
+              "RelativeDocumentMoniker": "Jogo\\ShaderProgram.cpp",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\ShaderProgram.cpp",
+              "RelativeToolTip": "Jogo\\ShaderProgram.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAiwGkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-08T19:32:24.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ground.h",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Ground.h",
+              "RelativeDocumentMoniker": "Jogo\\Ground.h",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Ground.h",
+              "RelativeToolTip": "Jogo\\Ground.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-08T19:22:44.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ft2build.h",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\ft2build.h",
+              "RelativeDocumentMoniker": "Jogo\\ft2build.h",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\ft2build.h",
+              "RelativeToolTip": "Jogo\\ft2build.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-08T19:27:43.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "shader.frag",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\shader.frag",
+              "RelativeDocumentMoniker": "Jogo\\shader.frag",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\shader.frag",
+              "RelativeToolTip": "Jogo\\shader.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-08T18:37:50.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "glad.h",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\glad.h",
+              "RelativeDocumentMoniker": "Jogo\\glad.h",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\glad.h",
+              "RelativeToolTip": "Jogo\\glad.h",
+              "ViewState": "AQIAAM8OAAAAAAAAAAAiwOQOAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-08T18:41:55.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "shader.vert",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\shader.vert",
+              "RelativeDocumentMoniker": "Jogo\\shader.vert",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\shader.vert",
+              "RelativeToolTip": "Jogo\\shader.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-08T18:37:09.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Shader.h",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Shader.h",
+              "RelativeDocumentMoniker": "Jogo\\Shader.h",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Jogo\\Jogo\\Shader.h",
+              "RelativeToolTip": "Jogo\\Shader.h",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-19T20:59:07.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

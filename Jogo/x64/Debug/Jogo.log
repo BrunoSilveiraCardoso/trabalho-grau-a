@@ -1,0 +1,6 @@
+﻿  Platform.cpp
+Main.obj : error LNK2019: símbolo externo não resolvido, "public: __cdecl Ground::Ground(float * const,unsigned int * const,char const *,char const *)" (??0Ground@@QEAA@QEAMQEAIPEBD2@Z), referenciado na função main
+Platform.obj : error LNK2001: símbolo externo não resolvido "public: __cdecl Ground::Ground(float * const,unsigned int * const,char const *,char const *)" (??0Ground@@QEAA@QEAMQEAIPEBD2@Z)
+Main.obj : error LNK2019: símbolo externo não resolvido, "public: void __cdecl Ground::Draw(void)" (?Draw@Ground@@QEAAXXZ), referenciado na função main
+Main.obj : error LNK2019: símbolo externo não resolvido, "public: void __cdecl Ground::DeleteVAO(void)" (?DeleteVAO@Ground@@QEAAXXZ), referenciado na função main
+C:\Users\bruno\source\repos\Jogo\x64\Debug\Jogo.exe : fatal error LNK1120: 3 externo não resolvidos
